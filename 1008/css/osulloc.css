@@ -79,3 +79,7 @@ section .inner ul li .content .disp{
     font-size: 18px;
     font-weight: bold;
 }
+section .inner ul li .content .price{
+    font-size: 18px;
+    font-weight: bold;
+}
