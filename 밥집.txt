@@ -213,3 +213,7 @@ https://chromewebstore.google.com/detail/image-downloader/cnpniohnfphhjihaiiggea
 깃 다운 git 설치
 github도 있음
 교재 18p참고 그대로 깔아야함.
+
+
+====================1008===================
+dbcut이라는 사이트 배움.
