@@ -33,3 +33,5 @@ git commit -am "mes2"
 오픈 윈도우 후에 폴더지정 후
 내 깃허브 링크주소 복사 한 후 (code버튼)
 터미널 부쉬에 git clone 주소 하면 됨.
+
+강사님 깃 주소 : https://github.com/bhher/backend
